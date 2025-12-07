@@ -4,3 +4,8 @@ This repository contains my complete journey into Machine Learning. It includes 
 
 1. Simple linear Regression Model
              A model that predict tip on the basis of total bill. 
+
+
+2. Multi linear Regression Model
+             A model that predict tip on the basis of total bill and Size of table. 
+
