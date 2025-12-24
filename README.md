@@ -9,3 +9,12 @@ This repository contains my complete journey into Machine Learning. It includes 
 2. Multi linear Regression Model
              A model that predict tip on the basis of total bill and Size of table. 
 
+
+3. Logstic Regression
+           We use this algorithm or logic when we are predicting any catagorical Value or result
+
+4. Regression Metrics
+           It is the concept in which we find the errors of the model  using mean square error,abslute error e.t.c
+           Note: This is for regression problem
+
+
